@@ -25,7 +25,7 @@ fun main() {
     println("Soma: $soma")
     println("Subtração: $subtracao")
     println("Multiplicação: $multiplicacao")
-    println("Divisão: $divisao")
+    println("Divisão: $divisao") 
     println("Resto: $resto")
 
     // Operadores de comparação
