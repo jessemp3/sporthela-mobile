@@ -55,3 +55,7 @@ private fun getFullName(firstName: String, lastName: String) = "$firstName $last
 
 //val x = calculate(5, 10::sum)
 //val y = calculate(12,4){a, b -> a * b} // lambda
+
+
+
+// no kotln o swith é chamado de when
